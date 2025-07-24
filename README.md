@@ -5,6 +5,7 @@ This repository contains a collection of data projects developed during my Post-
 Each project was designed to simulate real-world business problems using techniques such as data exploration, predictive modeling, statistical testing, customer segmentation, and business recommendations.
 
 Every folder includes:
+
 ✅ The original PDF presentation  
 ✅ A README summarizing the project  
 ✅ (Soon) A cleaned and reproducible Jupyter Notebook when applicable
