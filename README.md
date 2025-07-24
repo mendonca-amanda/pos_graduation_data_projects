@@ -39,7 +39,7 @@ Every folder includes:
 
 7. **Travel Package Purchase Prediction – Visit With Us**  
    Predict who will buy a travel package using XGBoost and profile-based recommendations.  
-   🔗 [`visit-with-us-travel`](./visit-with-us-travel)
+   🔗 [`visit-with-us-travel-prediction`](./visit-with-us-travel-prediction)
 
 ---
 
